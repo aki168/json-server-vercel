@@ -2,9 +2,10 @@
   "users": [],
   "posts": [
     {
-      "id": 1,
-      "title": "json-server22",
-      "author": "typicode"
+      "email": "david00@gmail.com",
+      "message": "真是一個很棒的網站，謝謝!!",
+      "title": "五星好評",
+      "userName": "David"
     }
   ],
   "comments": [
@@ -17,14 +18,6 @@
   "profile": [
     {
       "name": "typicode"
-    }
-  ],
-  "messages": [
-    {
-      "email": "david00@gmail.com",
-      "message": "真是一個很棒的網站，謝謝!!",
-      "title": "五星好評",
-      "userName": "David"
     }
   ],
   "feedbackData": [
