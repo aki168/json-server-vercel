@@ -1,18 +1,18 @@
 {
   "users": [],
-  "posts": [
-    {
-      "email": "david00@gmail.com",
-      "message": "真是一個很棒的網站，謝謝!!",
-      "title": "五星好評",
-      "userName": "David"
-    }
-  ],
   "comments": [
     {
       "id": 1,
       "body": "some comment",
       "postId": 1
+    }
+  ],
+  "messages": [
+    {
+      "email": "david00@gmail.com",
+      "message": "真是一個很棒的網站，謝謝!!",
+      "title": "五星好評",
+      "userName": "David"
     }
   ],
   "profile": [
